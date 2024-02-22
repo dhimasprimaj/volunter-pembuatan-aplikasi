@@ -4,3 +4,6 @@ Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada
 
 Silakan gunakan format berikut:<br>
 **\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
+
+Berikut adalah daftar volunter yang diterima:
+* Dhimas Primajaya, [Linkedin](https://www.linkedin.com/in/dhimas-primajaya-101104268/)
